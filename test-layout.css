@@ -1,0 +1,17 @@
+.div-flex-container {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div1 {
+    /* text-align: right; */
+}
+
+.div1 {
+    /* text-align: left;*/
+}
+
+* {
+    background-color: rgba(200, 0, 100, 0.2);
+}

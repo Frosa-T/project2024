@@ -1,0 +1,6 @@
+ 
+display: flex;
+    flex-direction: row;
+    align-content: flex-end;
+    padding: 10%;
+    margin: 10px;
